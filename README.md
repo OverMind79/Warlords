@@ -6,5 +6,6 @@ Warlords is a MOD for FunCom's Conan Exiles that strives to rebalance and provid
 ### Raiding
 * Tools may no longer cause structure damage.
 * Normal Weapons now do greatly reduced damage to structures.
+* 2 Handed weapons will do more damage than 1 handed weapons to structures.
 * Iron Weapons will now do minor damage to T1 structures and placeables.
 * Steel Weapons will now do minor damage to T2 and light damage to T1.
