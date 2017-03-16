@@ -1,16 +1,16 @@
 {
 	"name": "Warlords",
 	"description": "Warlords is a MOD for FunCom's Conan Exiles that strives to rebalance and provide a unique and engaging experience for its players. Both minor and major changes will create a new exciting version of the game for players who love PVP and Raiding. Be sure to visit our Wiki for more information on the specfic changes and feature sets of this MOD.",
-	"changeNote": "* Tools may no longer cause structure damage.\r\n* Normal Weapons now do greatly reduced damage to structures.\r\n* Two Handed weapons do more damage than One Handed weapons to structures.\r\n* Iron Weapons will now do minor damage to T1 Structures.\r\n* Steel Weapons will now do minor damage to T2 and light damage to T1 Structures.\r\n* Shields now provide passive armor bonus when being attacked from the front while one is equipped.",
+	"changeNote": "* All crafting stations are now public and accessible by anyone. Be sure to keep your stations secure and don't leave valuables in them.  This includes camp fires and bon fires.",
 	"author": "Shawn Sagady",
 	"authorUrl": "",
 	"versionMajor": 0,
 	"versionMinor": 0,
-	"versionBuild": 1,
+	"versionBuild": 3,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "883029421",
 	"steamVisibility": 2,
 	"folderName": "Warlords",
-	"revisionNumber": 25635,
-	"snapshotId": 10611
+	"revisionNumber": 26086,
+	"snapshotId": 10753
 }
