@@ -1,3 +1,6 @@
-# What is Conan Exiles: Warlords
-Warlords is a MOD for FunCom's Conan Exiles that strives to rebalance and provide a unique and engaging experience for its players.  Both minor and major changes will create a new exciting version of the game for players who love PVP and Raiding.  Be sure to visit our Wiki for more information on the specfic changes and feature sets of this MOD.  
-** Visit The Steam Workshop Page For More Information **
+## What is Conan Exiles: Warlords
+The Warlords Mod puts the power back in the hands of the players, fighting face to face on the battlefield. In a world where the gods no longer send their Avatars to destroy for them, it is up to the Warlords of the land to fight for control and destroy their enemies.
+  
+[**Visit The Steam Workshop Page To Get The Latest Files And Subscribe!**](http://steamcommunity.com/sharedfiles/filedetails/?id=883029421)  
+
+[**Latest Features**](../wiki)
