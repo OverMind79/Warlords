@@ -5,4 +5,5 @@ The Warlords Mod puts the power back in the hands of the players, fighting face 
   
 **Learn About All The Features And Changes In Our** [**Wiki**](../../wiki)  
   
-**Submit Bug Reports And Feature Requests On Our** [**Issues Page**](../../issues)
+**Submit Bug Reports And Feature Requests On Our** [**Issues Page**](../../issues)  
+*You will need to create a Github account to submit issues*
