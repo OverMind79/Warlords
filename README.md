@@ -3,4 +3,4 @@ The Warlords Mod puts the power back in the hands of the players, fighting face 
   
 [**Visit The Steam Workshop Page To Get The Latest Files And Subscribe!**](http://steamcommunity.com/sharedfiles/filedetails/?id=883029421)  
 
-[**Latest Features**](../wiki)
+[**Latest Features**](../../wiki)
