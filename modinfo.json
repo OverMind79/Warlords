@@ -1,16 +1,16 @@
 {
 	"name": "Warlords",
-	"description": "ALPHA v 0.2.6\r\n\r\nThe Warlords Mod puts the power back in the hands of the players, fighting face to face on the battlefield.  In a world where the gods no longer send their Avatars to destroy for them, it is up to the Warlords of the land to fight for control and destroy their enemies.\r\n\r\nFor Detailed Features please visit our GitHub Wiki http://www.github.com/bigmanshawn/Warlords/wiki\r\n\r\nYou may help test Warlords by joining us on our official server at 107.173.81.98:39616.  This server will always run the latest version of the Mod, and will be wiped at the end of our Beta period.  ",
-	"changeNote": "v 0.2.6\r\n\r\n* Tweaked Attack Speeds on Swords\r\n* Sped up several recipes for critical building components that were creating bad bottlenecks (iron & steel reinforcement, bricks & hardened bricks)\r\n* Floating Damage Text Font Smaller\r\n",
+	"description": "ALPHA v 0.2.8\r\n\r\nThe Warlords Mod puts the power back in the hands of the players, fighting face to face on the battlefield.  In a world where the gods no longer send their Avatars to destroy for them, it is up to the Warlords of the land to fight for control and destroy their enemies.\r\n\r\nFor Detailed Features please visit our GitHub Wiki http://www.github.com/bigmanshawn/Warlords/wiki\r\n\r\nYou may help test Warlords by joining us on our official server at 107.173.81.98:39616.  This server will always run the latest version of the Mod, and will be wiped at the end of our Beta period.  ",
+	"changeNote": "v 0.2.8\r\n* Balancing Pass on Wildlife Damage",
 	"author": "Shawn Sagady",
 	"authorUrl": "",
 	"versionMajor": 0,
 	"versionMinor": 2,
-	"versionBuild": 6,
+	"versionBuild": 8,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "883029421",
 	"steamVisibility": 0,
 	"folderName": "Warlords",
-	"revisionNumber": 26291,
-	"snapshotId": 10819
+	"revisionNumber": 26734,
+	"snapshotId": 10908
 }
