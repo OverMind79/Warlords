@@ -1,16 +1,16 @@
 {
 	"name": "Warlords",
-	"description": "*** THIS MOD IS IN EARLY BETA TESTING AND MANY FEATURES WILL BE ADDED / CHANGED ***\r\n\r\nThe Warlords Mod puts the power back in the hands of the players, fighting face to face on the battlefield.  In a world where the gods no longer send their Avatars to destroy for them, it is up to the Warlords of the land to fight for control and destroy their enemies.\r\n\r\nFor Detailed Features please visit our GitHub Wiki http://www.github.com/bigmanshawn/Warlords/wiki\r\n\r\nYou may help test Warlords by joining us on our official server at 107.173.81.98:39616.  This server will always run the latest version of the Mod, and will be wiped at the end of our Beta period.  ",
-	"changeNote": "* All crafting stations are now public and accessible by anyone. Be sure to keep your stations secure and don't leave valuables in them.  This includes camp fires and bon fires.",
+	"description": "ALPHA v 0.3.0\r\n\r\nThe Warlords Mod puts the power back in the hands of the players, fighting face to face on the battlefield.  In a world where the gods no longer send their Avatars to destroy for them, it is up to the Warlords of the land to fight for control and destroy their enemies.\r\n\r\nFor Detailed Features please visit our GitHub Wiki http://www.github.com/bigmanshawn/Warlords/wiki\r\n\r\nYou may help test Warlords by joining us on our official server at 107.173.81.98:39616.  This server will always run the latest version of the Mod, and will be wiped at the end of our Beta period.  ",
+	"changeNote": "v 0.3.0\r\n\r\nThe Combat Overhaul is mostly complete, from here forward it will be a case of balancing numbers and formulas, and some UI fixes and new features.\r\n\r\n* Rebalanced Wildelife Health across the board, let us know how it feels.\r\n* Humanoid NPCs now gain bonus damage based on their tier.\r\n* Added New Resource Demon Steel, craftable in a furnace using steel and demons blood.\r\n* Religion weapons (Yoggite Cudgel, Serpent Stamped Khopesh, Phoenix Engraved Broadsword) are now only craftable on T3 altars. They also require Demon Steel, Shaped Wood, Thick Leather and 1 True Name of the appropriate god.  These should be some of the strongest items in the game.\r\n* Crafting the True Name of X on your T3 altar will no longer destroy the altar.\r\n* Campfires now require 15 branches, 10 wood, 30 stone.",
 	"author": "Shawn Sagady",
-	"authorUrl": "",
+	"authorUrl": "https://github.com/bigmanshawn/Warlords/wiki",
 	"versionMajor": 0,
-	"versionMinor": 0,
-	"versionBuild": 3,
+	"versionMinor": 3,
+	"versionBuild": 0,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "883029421",
-	"steamVisibility": 2,
+	"steamVisibility": 0,
 	"folderName": "Warlords",
-	"revisionNumber": 26086,
-	"snapshotId": 10753
+	"revisionNumber": 26734,
+	"snapshotId": 10908
 }
